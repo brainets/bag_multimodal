@@ -1,0 +1,292 @@
+2026-10-05 12:05:41
+-----------------------------------
+Loading data...
+2026-10-05 12:07:11
+-----------------------------------
+Loading data...
+2026-10-05 12:08:07
+-----------------------------------
+Loading data...
+2026-10-05 12:09:26
+-----------------------------------
+Loading data...
+2026-10-05 12:10:18
+-----------------------------------
+Loading data...
+2026-10-05 12:10:26
+-----------------------------------
+Loading data...
+2026-10-05 12:11:04
+-----------------------------------
+Loading data...
+Number of subjects in dataframe features: 1000
+Removing subjects with missing data...
+Removing subjects not shared among dataframes...
+Final number of subjects in dataframe features: 1000 (100.00 % of initial)
+No clinical information provided using all subjects as CN.
+-----------------------------------
+Age distribution of Controls
+[Group: all]
+Mean age: 50.75
+Std age: 19.48
+Age range: [18,84]
+-----------------------------------
+Features by correlation with Age of Controls [System: all]
+significance: 0.05 * -> FDR, ** -> bonferroni
+Covariate all
+1.all  strength_82: 0.10 (0.0014)
+2.all  strength_86: 0.10 (0.0014)
+3.all  strength_73: -0.08 (0.015)
+4.all  strength_23: 0.08 (0.017)
+5.all  strength_34: -0.07 (0.019)
+6.all  strength_20: -0.07 (0.038)
+7.all  strength_94: 0.06 (0.055)
+8.all  strength_18: 0.06 (0.064)
+9.all  strength_96: 0.06 (0.071)
+10.all  strength_67: 0.06 (0.074)
+11.all  strength_56: 0.05 (0.094)
+12.all  strength_15: -0.05 (0.12)
+13.all  strength_78: 0.05 (0.15)
+14.all  strength_11: -0.04 (0.17)
+15.all  strength_46: -0.04 (0.18)
+16.all  strength_29: 0.04 (0.19)
+17.all  strength_69: -0.04 (0.19)
+18.all  strength_24: 0.04 (0.2)
+19.all  strength_39: -0.04 (0.2)
+20.all  strength_22: 0.04 (0.22)
+21.all  strength_0: -0.04 (0.22)
+22.all  strength_99: 0.04 (0.22)
+23.all  strength_80: 0.04 (0.25)
+24.all  strength_71: 0.04 (0.27)
+25.all  strength_43: -0.03 (0.27)
+26.all  strength_68: -0.03 (0.28)
+27.all  strength_3: -0.03 (0.31)
+28.all  strength_65: -0.03 (0.33)
+29.all  strength_77: -0.03 (0.33)
+30.all  strength_75: -0.03 (0.34)
+31.all  strength_6: 0.03 (0.35)
+32.all  strength_37: 0.03 (0.36)
+33.all  strength_12: -0.03 (0.37)
+34.all  strength_45: -0.03 (0.38)
+35.all  strength_7: -0.03 (0.38)
+36.all  strength_93: -0.03 (0.38)
+37.all  strength_48: -0.03 (0.4)
+38.all  strength_41: -0.03 (0.42)
+39.all  strength_42: 0.03 (0.42)
+40.all  strength_72: 0.03 (0.43)
+41.all  strength_25: -0.03 (0.43)
+42.all  strength_57: -0.03 (0.43)
+43.all  strength_14: -0.03 (0.43)
+44.all  strength_32: -0.02 (0.44)
+45.all  strength_5: -0.02 (0.45)
+46.all  strength_47: 0.02 (0.48)
+47.all  strength_50: 0.02 (0.48)
+48.all  strength_59: 0.02 (0.49)
+49.all  strength_31: -0.02 (0.49)
+50.all  strength_91: 0.02 (0.52)
+51.all  strength_30: 0.02 (0.54)
+52.all  strength_10: 0.02 (0.56)
+53.all  strength_70: -0.02 (0.56)
+54.all  strength_17: 0.02 (0.58)
+55.all  strength_97: 0.02 (0.6)
+56.all  strength_36: 0.02 (0.6)
+57.all  strength_44: -0.02 (0.6)
+58.all  strength_85: 0.02 (0.6)
+59.all  strength_66: -0.02 (0.61)
+60.all  strength_58: -0.02 (0.62)
+61.all  strength_40: 0.02 (0.62)
+62.all  strength_76: -0.02 (0.62)
+63.all  strength_83: 0.02 (0.63)
+64.all  strength_54: 0.01 (0.64)
+65.all  strength_81: -0.01 (0.64)
+66.all  strength_84: 0.01 (0.65)
+67.all  strength_9: 0.01 (0.65)
+68.all  strength_8: -0.01 (0.65)
+69.all  strength_52: -0.01 (0.66)
+70.all  strength_92: 0.01 (0.67)
+71.all  strength_53: -0.01 (0.69)
+72.all  strength_87: -0.01 (0.7)
+73.all  strength_1: -0.01 (0.71)
+74.all  strength_64: -0.01 (0.71)
+75.all  strength_60: -0.01 (0.73)
+76.all  strength_98: -0.01 (0.74)
+77.all  strength_38: -0.01 (0.75)
+78.all  strength_79: 0.01 (0.75)
+79.all  strength_90: 0.01 (0.8)
+80.all  strength_26: 0.01 (0.81)
+81.all  strength_4: -0.01 (0.82)
+82.all  strength_51: -0.01 (0.82)
+83.all  strength_19: -0.01 (0.83)
+84.all  strength_27: -0.01 (0.84)
+85.all  strength_55: 0.01 (0.84)
+86.all  strength_49: -0.01 (0.85)
+87.all  strength_16: 0.01 (0.87)
+88.all  strength_88: -0.00 (0.89)
+89.all  strength_13: 0.00 (0.9)
+90.all  strength_61: 0.00 (0.93)
+91.all  strength_95: -0.00 (0.93)
+92.all  strength_28: 0.00 (0.93)
+93.all  strength_62: 0.00 (0.94)
+94.all  strength_89: 0.00 (0.94)
+95.all  strength_74: -0.00 (0.94)
+96.all  strength_63: -0.00 (0.97)
+97.all  strength_33: 0.00 (0.98)
+98.all  strength_2: -0.00 (0.99)
+99.all  strength_21: 0.00 (1)
+100.all  strength_35: -0.00 (1)
+-----------------------------------
+Training Age Model [Covariate:all, System:all]
+Pipeline(steps=[('scaler', MinMaxScaler()), ('model', Ridge())])
+50
+Running Hyperparameter optimization...
+
+Running CV splits with pipeline:
+Pipeline(steps=[('scaler', MinMaxScaler()), ('model', Ridge())])
+
+Hyperoptimization best parameters: {}
+Best pipeline:
+Pipeline(steps=[('scaler', MinMaxScaler()), ('model', Ridge())])
+Summary metrics over all CV splits
+Train: MAE 15.50 ± 0.18, RMSE 18.20 ± 0.11, R2 0.126 ± 0.007, p 0.356 ± 0.010
+Test: MAE 17.58 ± 0.58, RMSE 20.63 ± 0.41, R2 -0.131 ± 0.027, p 0.018 ± 0.044
+
+When using mean of ages as predictor for each subject (dummy regressor):
+MAE: 16.93, RMSE: 19.48
+Age range: 66.00
+2026-10-05 12:20:16
+-----------------------------------
+Loading data...
+Number of subjects in dataframe features: 1000
+Removing subjects with missing data...
+Removing subjects not shared among dataframes...
+Final number of subjects in dataframe features: 1000 (100.00 % of initial)
+No clinical information provided using all subjects as CN.
+-----------------------------------
+Age distribution of Controls
+[Group: all]
+Mean age: 50.54
+Std age: 18.78
+Age range: [18,84]
+-----------------------------------
+Features by correlation with Age of Controls [System: all]
+significance: 0.05 * -> FDR, ** -> bonferroni
+Covariate all
+1.all  strength_76: 0.07 (0.023)
+2.all  strength_36: -0.06 (0.045)
+3.all  strength_16: 0.06 (0.056)
+4.all  strength_22: -0.06 (0.081)
+5.all  strength_86: 0.05 (0.088)
+6.all  strength_12: -0.05 (0.094)
+7.all  strength_66: -0.05 (0.094)
+8.all  strength_38: -0.05 (0.11)
+9.all  strength_24: -0.05 (0.13)
+10.all  strength_98: 0.05 (0.13)
+11.all  strength_27: -0.05 (0.13)
+12.all  strength_41: -0.05 (0.14)
+13.all  strength_92: 0.05 (0.15)
+14.all  strength_88: 0.04 (0.18)
+15.all  strength_30: 0.04 (0.21)
+16.all  strength_49: -0.04 (0.21)
+17.all  strength_26: -0.04 (0.21)
+18.all  strength_0: -0.04 (0.23)
+19.all  strength_42: -0.04 (0.25)
+20.all  strength_85: -0.04 (0.26)
+21.all  strength_62: 0.04 (0.26)
+22.all  strength_87: -0.03 (0.29)
+23.all  strength_50: -0.03 (0.3)
+24.all  strength_28: 0.03 (0.31)
+25.all  strength_55: -0.03 (0.32)
+26.all  strength_97: -0.03 (0.34)
+27.all  strength_89: -0.03 (0.36)
+28.all  strength_9: -0.03 (0.37)
+29.all  strength_83: -0.03 (0.39)
+30.all  strength_23: -0.03 (0.4)
+31.all  strength_31: 0.03 (0.41)
+32.all  strength_73: 0.03 (0.41)
+33.all  strength_44: 0.03 (0.43)
+34.all  strength_71: 0.02 (0.44)
+35.all  strength_45: 0.02 (0.45)
+36.all  strength_56: 0.02 (0.45)
+37.all  strength_52: 0.02 (0.45)
+38.all  strength_14: -0.02 (0.48)
+39.all  strength_53: 0.02 (0.48)
+40.all  strength_48: -0.02 (0.49)
+41.all  strength_11: 0.02 (0.5)
+42.all  strength_19: 0.02 (0.5)
+43.all  strength_18: 0.02 (0.5)
+44.all  strength_43: -0.02 (0.51)
+45.all  strength_64: -0.02 (0.54)
+46.all  strength_77: 0.02 (0.54)
+47.all  strength_17: -0.02 (0.54)
+48.all  strength_8: -0.02 (0.54)
+49.all  strength_99: 0.02 (0.54)
+50.all  strength_10: -0.02 (0.55)
+51.all  strength_84: 0.02 (0.55)
+52.all  strength_39: -0.02 (0.56)
+53.all  strength_51: 0.02 (0.58)
+54.all  strength_91: -0.02 (0.58)
+55.all  strength_61: 0.02 (0.59)
+56.all  strength_46: 0.02 (0.6)
+57.all  strength_93: -0.02 (0.6)
+58.all  strength_40: 0.02 (0.63)
+59.all  strength_37: 0.01 (0.64)
+60.all  strength_63: -0.01 (0.64)
+61.all  strength_65: 0.01 (0.65)
+62.all  strength_67: 0.01 (0.67)
+63.all  strength_70: -0.01 (0.67)
+64.all  strength_25: -0.01 (0.67)
+65.all  strength_21: 0.01 (0.71)
+66.all  strength_32: -0.01 (0.73)
+67.all  strength_13: 0.01 (0.74)
+68.all  strength_58: 0.01 (0.74)
+69.all  strength_90: 0.01 (0.76)
+70.all  strength_59: 0.01 (0.76)
+71.all  strength_82: 0.01 (0.77)
+72.all  strength_35: 0.01 (0.77)
+73.all  strength_78: 0.01 (0.78)
+74.all  strength_95: -0.01 (0.78)
+75.all  strength_5: -0.01 (0.8)
+76.all  strength_60: -0.01 (0.8)
+77.all  strength_7: 0.01 (0.8)
+78.all  strength_54: 0.01 (0.8)
+79.all  strength_6: -0.01 (0.81)
+80.all  strength_47: 0.01 (0.83)
+81.all  strength_29: 0.01 (0.84)
+82.all  strength_79: 0.01 (0.85)
+83.all  strength_34: 0.01 (0.85)
+84.all  strength_68: 0.00 (0.88)
+85.all  strength_72: 0.00 (0.88)
+86.all  strength_3: 0.00 (0.92)
+87.all  strength_15: -0.00 (0.94)
+88.all  strength_74: -0.00 (0.94)
+89.all  strength_1: -0.00 (0.94)
+90.all  strength_81: 0.00 (0.95)
+91.all  strength_80: 0.00 (0.95)
+92.all  strength_33: 0.00 (0.95)
+93.all  strength_2: -0.00 (0.96)
+94.all  strength_57: 0.00 (0.98)
+95.all  strength_20: 0.00 (0.99)
+96.all  strength_69: -0.00 (0.99)
+97.all  strength_94: -0.00 (0.99)
+98.all  strength_75: 0.00 (1)
+99.all  strength_96: 0.00 (1)
+100.all  strength_4: 0.00 (1)
+-----------------------------------
+Training Age Model [Covariate:all, System:all]
+Pipeline(steps=[('scaler', MinMaxScaler()), ('model', Ridge())])
+50
+Running Hyperparameter optimization...
+
+Running CV splits with pipeline:
+Pipeline(steps=[('scaler', MinMaxScaler()), ('model', Ridge())])
+
+Hyperoptimization best parameters: {}
+Best pipeline:
+Pipeline(steps=[('scaler', MinMaxScaler()), ('model', Ridge())])
+Summary metrics over all CV splits
+Train: MAE 15.12 ± 0.19, RMSE 17.79 ± 0.16, R2 0.102 ± 0.010, p 0.319 ± 0.017
+Test: MAE 17.28 ± 0.89, RMSE 20.30 ± 0.82, R2 -0.176 ± 0.060, p -0.096 ± 0.081
+
+When using mean of ages as predictor for each subject (dummy regressor):
+MAE: 16.10, RMSE: 18.78
+Age range: 66.00
